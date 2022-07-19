@@ -1,0 +1,3 @@
+install xammp server.then go to the htdoc folder select and then create a folder first and then create project file like as index.php,index.html,css ect.
+create data server
+Trip file name and 8 column sno(int,autoincrement),name(text),age(int),gender(varchar),email(varcahr),phone(int),dt(timestemp)(date).
